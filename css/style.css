@@ -690,12 +690,17 @@ font-size:1.2rem;
 }
 
 .profile-frame{
-width:300px;
-height:300px;
+width:360px;
+height:360px;
+background:...
+...
 }
 
 .nav-links{
-display:none;
+display:flex;
+gap:15px;
+flex-wrap:wrap;
+justify-content:center;
 }
 
 .skills-grid{
